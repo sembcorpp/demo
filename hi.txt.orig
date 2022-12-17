@@ -1,0 +1,7 @@
+hi my name is jane
+<<<<<<< HEAD
+this is line 2
+this is master update
+=======
+this is branch 2 update
+>>>>>>> branch
