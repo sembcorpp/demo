@@ -1,2 +1,2 @@
 hi my name is jane
-this is line 2
+this is branch 2 update
